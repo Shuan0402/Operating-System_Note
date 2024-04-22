@@ -9,4 +9,6 @@ Advisor：周致遠老師
 |Ch0|Historical Prospective|Completed|
 |Ch1|Introduction|Completed|
 |Ch2|OS Structure|Completed|
-|Ch3|Processes Concept|in progress|
+|Ch3|Processes Concept|Completed|
+|Ch4|Multithreaded Programming|Completed|
+|Ch5|Process Scheduling|in program|
